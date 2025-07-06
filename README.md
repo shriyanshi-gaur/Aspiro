@@ -1,8 +1,9 @@
 
 ---
 
-### 💼 **Aspiro** – Smart Job Discovery & Recruitment Platform  
-**Tagline:** *"Aspire.Apply.AchieveAspiro is a full-stack SaaS application built to optimize the job search and hiring experience for both job seekers and employers. With robust authentication, real-time resume tracking, and intuitive dashboards, Aspiro offers a dynamic and responsive platform tailored for modern hiring needs."*
+### 💼 **Aspiro** – Smart Job Discovery & Recruitment Platform   (Smart SaaS Job Portal )
+**Tagline:** *"Aspire.Apply.Achieve".
+Aspiro is a full-stack SaaS application built to optimize the job search and hiring experience for both job seekers and employers. With robust authentication, real-time resume tracking, and intuitive dashboards, Aspiro offers a dynamic and responsive platform tailored for modern hiring needs."*
 
 **Overview:**  
 Aspiro is a full-stack SaaS application built to optimize the job search and hiring experience for both job seekers and employers. With robust authentication, real-time resume tracking, and intuitive dashboards, Aspiro offers a dynamic and responsive platform tailored for modern hiring needs.
@@ -15,6 +16,19 @@ Aspiro is a full-stack SaaS application built to optimize the job search and hir
 - **Elegant UI/UX**: Built with shadcn/ui for accessible, customizable components  
 - **Robust Validation**: Zod-based form validation for type-safe, scalable input handling
 
+## 🖼️ Screenshots
+
+
+![Landing](./screenshots/Landingpg1.jpg) | 
+![Employer](./screenshots/Landingpage2.jpg) | 
+![ClerkAuthentication](./screenshots/Clerk-authetication.jpg) |
+![job posting](./screenshots/jobposting.jpg) |
+![job listings](./screenshots/joblistings.jpg) |
+![applying](./screenshots/applying.jpg) |
+![Supabase](./screenshots/SupabaseTables.jpg) 
+
+
+
 **🛠️ Tech Stack:**
 | Category          | Tools/Tech                                             |
 |------------------|--------------------------------------------------------|
@@ -24,7 +38,7 @@ Aspiro is a full-stack SaaS application built to optimize the job search and hir
 | **Auth**          | Clerk                                                  |
 | **Backend**       | Supabase (PostgreSQL + Realtime)                       |
 | **Validation**    | Zod                                                    |
-| **Hosting**       | Vercel / Netlify / Firebase *(choose yours)*          |
+
 
 **🌟 Bonus Highlights:**
 - Accessible, mobile-first design  
@@ -34,5 +48,3 @@ Aspiro is a full-stack SaaS application built to optimize the job search and hir
 > “Designed with precision, crafted for impact — by Shriyanshi Gaur.”
 
 ---
-
-Want a tailored version for a hiring manager or a résumé bullet point format next? I can also help you create a preview GIF or badges for GitHub ✨
